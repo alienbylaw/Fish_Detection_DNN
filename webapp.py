@@ -6,7 +6,7 @@ import sys
 import os
 
 #Importing the detection script that is connected to the AI model
-import detect_fish_script as fish_script
+#import detect_fish_script as fish_script
 
 #Accepts a list of photos and saves them fish_test_images to be uploaded into the model
 def photo_to_folder(image):
