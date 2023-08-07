@@ -1,33 +1,11 @@
-Python Packages required in order to run app:
-
-requirements for webapp.py:
-import streamlit as st
-import os
-from PIL import Image
-import subprocess
-import sys
+#Used in webapp.py
+os
+PIL
+subprocess
+sys
 
 
-Requirements for detect_fish_script.py:
-
-import numpy as np
-import argparse
-import os
-import tensorflow as tf
-from PIL import Image
-from io import BytesIO
-import glob
-import matplotlib.pyplot as plt
-
-from object_detection.utils import ops as utils_ops
-from object_detection.utils import label_map_util
-from object_detection.utils import visualization_utils as vis_util
-
-
-REQUIRED PYTHON SCRIPTS:
-
-- detect_fish_script.py
-
-REQUIRED AI MODEL:
-
-- models (folder)
+#Used in fish detection script
+numpy
+tensorflow
+matplotlib.pyplot
