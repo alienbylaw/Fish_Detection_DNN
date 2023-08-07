@@ -1,5 +1,4 @@
 #Used in webapp.py
-os
 PIL
 subprocess
 sys
