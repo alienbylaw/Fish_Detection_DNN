@@ -133,8 +133,7 @@ PyQt5-Qt5
 PyQt5-sip                        
 python-dateutil                  
 python-slugify                   
-pytz                              
-pywin32                          
+pytz                                                   
 PyYAML                           
 pyzmq                           
 referencing                      
